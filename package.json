@@ -18,6 +18,7 @@
   },
   "homepage": "https://github.com/dartmouth-cs52-17S/starterpack-zchr#readme",
   "devDependencies": {
+    "babel-eslint": "^7.2.3",
     "browser-sync": "^2.18.8",
     "gulp": "^3.9.1",
     "gulp-coffeescript": "0.0.10",
